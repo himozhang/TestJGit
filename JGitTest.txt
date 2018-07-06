@@ -7,4 +7,4 @@ local modify  2
 
 ----------------
 
-local modify 2018-07-07 - local
+local modify 2018-07-07 - local - remote
