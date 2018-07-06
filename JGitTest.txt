@@ -7,4 +7,4 @@ local modify  2
 
 ----------------
 
-local modify 2018-07-07 - commitAndPushRepository(LOCAL_REPO_PATH, "JGitTest.txt", "commitToGitRepository测试");
+local modify 2018-07-07 - remote
