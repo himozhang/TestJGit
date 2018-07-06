@@ -7,4 +7,8 @@ local modify  2
 
 ----------------
 
+<<<<<<< HEAD
 local modify 2018-07-07 - local - remote
+=======
+local modify 2018-07-07 - local 2222
+>>>>>>> stash
