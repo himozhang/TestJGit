@@ -5,5 +5,5 @@ loca modify - himo
 
 local modify  2
 
------------------
-remote modify 2018-07-06
+----------------
+local modify 2018-07-07
