@@ -6,4 +6,4 @@ loca modify - himo
 local modify  2
 
 ----------------
-local modify 2018-07-07 
+local modify 2018-07-07 ----remote0707
