@@ -10,5 +10,3 @@ local modify  2
 local modify 2018-07-07 - local 2222
 输出更新文件
 
-------
-测试多个文件修改，并commit和push操作。  - 20180708-14:35
